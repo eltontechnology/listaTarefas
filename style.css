@@ -65,8 +65,8 @@ h1{
     margin-right: auto;
     margin-top: 2%;
     margin-bottom: 2%;
-    max-width: 250px;
-    height: 300px;
+    max-width: 200px;
+    height: 200px;
 }
 .todo__title {
     text-align: center;
