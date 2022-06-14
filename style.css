@@ -106,7 +106,14 @@ h1{
     background-color: #00d4ff;
     color: white;
 }
-
+#propaganda{
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+}
 
 .todo__item > input[type='text'] {
     border: none;
